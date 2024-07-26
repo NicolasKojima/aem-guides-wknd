@@ -1,6 +1,5 @@
 .cmp-layoutcontainer--header {
-    background-color: #160da2;
-    color: #f7f7f7;
+    background-color: $body-bg;
     padding-top: 50px;
     padding-bottom: 50px;
     margin-top: 0px;
